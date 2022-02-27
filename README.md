@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoQutaish
 - 👀 I’m interested in Data scince
 - 🌱 I’m currently learning Master Data Science, AI and Digital Business
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Finance/accounting Data Science 
 - 📫 How to reach me qutaishmohammed79@gmail.com
 
 <!---
